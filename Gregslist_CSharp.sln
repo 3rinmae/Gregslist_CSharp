@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gregslist_CSharp", "Gregslist_CSharp.csproj", "{BFD74AE8-7760-4AB2-AE42-81D5CF276D75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFD74AE8-7760-4AB2-AE42-81D5CF276D75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFD74AE8-7760-4AB2-AE42-81D5CF276D75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFD74AE8-7760-4AB2-AE42-81D5CF276D75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFD74AE8-7760-4AB2-AE42-81D5CF276D75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4FD84CF-0204-4E46-A653-825C33EA49BC}
+	EndGlobalSection
+EndGlobal
